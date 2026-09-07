@@ -1,0 +1,129 @@
+===================================================
+ EXECUCAO CCO-TRICCO
+===================================================
+Parametros utilizados:
+  Nterm         = 100
+  R             = 10
+  gamma         = 3
+  modo          = tricco  (tricco (multifurcacao, ate 3 filhos por no))
+  seed          = 42
+  M (grade)     = 6
+  Qperf         = 8.33e-06
+  pperf         = 13300
+  pterm         = 7980
+  deltaP        = 5320
+  mu            = 0.0036
+  Qterm         = 8.33e-08
+---------------------------------------------------
+Inicio da execucao.
+---------------------------------------------------
+Terminal 1/100 inserido em (-0.193312, -9.96073) | segmento id=0 pai_id=-1 | fluxo(raiz)=8.33e-08 | raio(raiz)=0.00436732 | volume_total=0.00119613 | conexoes testadas nesta insercao=0 | rejeitadas nesta insercao=0
+Terminal 2/100 inserido em (5.80799, 8.13975) | segmento id=2 pai_id=1 | fluxo(raiz)=1.666e-07 | raio(raiz)=0.00550248 | volume_total=0.00164843 | conexoes testadas nesta insercao=12 | rejeitadas nesta insercao=0
+Terminal 3/100 inserido em (-9.82898, -1.02031) | segmento id=3 pai_id=1 | fluxo(raiz)=2.499e-07 | raio(raiz)=0.00629877 | volume_total=0.00254148 | conexoes testadas nesta insercao=37 | rejeitadas nesta insercao=12
+Terminal 4/100 inserido em (9.45169, -3.2041) | segmento id=5 pai_id=4 | fluxo(raiz)=3.332e-07 | raio(raiz)=0.00693269 | volume_total=0.00335408 | conexoes testadas nesta insercao=48 | rejeitadas nesta insercao=24
+Terminal 5/100 inserido em (-7.15031, 6.73174) | segmento id=7 pai_id=6 | fluxo(raiz)=4.165e-07 | raio(raiz)=0.00746801 | volume_total=0.0038482 | conexoes testadas nesta insercao=72 | rejeitadas nesta insercao=48
+Terminal 6/100 inserido em (-6.65709, -7.31332) | segmento id=9 pai_id=8 | fluxo(raiz)=4.998e-07 | raio(raiz)=0.00793595 | volume_total=0.00472854 | conexoes testadas nesta insercao=98 | rejeitadas nesta insercao=61
+Terminal 7/100 inserido em (9.28377, 3.15604) | segmento id=10 pai_id=4 | fluxo(raiz)=5.831e-07 | raio(raiz)=0.00835438 | volume_total=0.00538111 | conexoes testadas nesta insercao=123 | rejeitadas nesta insercao=86
+Terminal 8/100 inserido em (5.54845, -8.0657) | segmento id=12 pai_id=11 | fluxo(raiz)=6.664e-07 | raio(raiz)=0.00873464 | volume_total=0.00608021 | conexoes testadas nesta insercao=134 | rejeitadas nesta insercao=110
+Terminal 9/100 inserido em (-1.51431, -4.63925) | segmento id=13 pai_id=8 | fluxo(raiz)=7.497e-07 | raio(raiz)=0.00908439 | volume_total=0.00675523 | conexoes testadas nesta insercao=159 | rejeitadas nesta insercao=97
+Terminal 10/100 inserido em (-9.42119, 3.18993) | segmento id=15 pai_id=14 | fluxo(raiz)=8.33e-07 | raio(raiz)=0.00940911 | volume_total=0.00732101 | conexoes testadas nesta insercao=168 | rejeitadas nesta insercao=119
+Terminal 11/100 inserido em (-0.735514, -0.245324) | segmento id=17 pai_id=16 | fluxo(raiz)=9.163e-07 | raio(raiz)=0.00971283 | volume_total=0.00769459 | conexoes testadas nesta insercao=193 | rejeitadas nesta insercao=132
+Terminal 12/100 inserido em (4.9168, 4.26514) | segmento id=19 pai_id=18 | fluxo(raiz)=9.996e-07 | raio(raiz)=0.00999867 | volume_total=0.00798809 | conexoes testadas nesta insercao=220 | rejeitadas nesta insercao=184
+Terminal 13/100 inserido em (-3.07694, -7.82969) | segmento id=21 pai_id=20 | fluxo(raiz)=1.0829e-06 | raio(raiz)=0.010269 | volume_total=0.0086758 | conexoes testadas nesta insercao=245 | rejeitadas nesta insercao=184
+Terminal 14/100 inserido em (-8.80446, -4.47841) | segmento id=22 pai_id=20 | fluxo(raiz)=1.1662e-06 | raio(raiz)=0.0105259 | volume_total=0.00933455 | conexoes testadas nesta insercao=269 | rejeitadas nesta insercao=232
+Terminal 15/100 inserido em (-3.38596, 9.37974) | segmento id=24 pai_id=23 | fluxo(raiz)=1.2495e-06 | raio(raiz)=0.0107707 | volume_total=0.00953841 | conexoes testadas nesta insercao=281 | rejeitadas nesta insercao=243
+Terminal 16/100 inserido em (-5.15556, 2.83608) | segmento id=25 pai_id=16 | fluxo(raiz)=1.3328e-06 | raio(raiz)=0.011005 | volume_total=0.00993168 | conexoes testadas nesta insercao=305 | rejeitadas nesta insercao=217
+Terminal 17/100 inserido em (7.3082, -0.0741413) | segmento id=27 pai_id=26 | fluxo(raiz)=1.4161e-06 | raio(raiz)=0.0112296 | volume_total=0.010319 | conexoes testadas nesta insercao=317 | rejeitadas nesta insercao=293
+Terminal 18/100 inserido em (1.60641, -2.97791) | segmento id=29 pai_id=28 | fluxo(raiz)=1.4994e-06 | raio(raiz)=0.0114456 | volume_total=0.0107207 | conexoes testadas nesta insercao=342 | rejeitadas nesta insercao=237
+Terminal 19/100 inserido em (7.97956, -6.02541) | segmento id=30 pai_id=11 | fluxo(raiz)=1.5827e-06 | raio(raiz)=0.0116538 | volume_total=0.0113369 | conexoes testadas nesta insercao=366 | rejeitadas nesta insercao=303
+Terminal 20/100 inserido em (-2.19794, 5.25797) | segmento id=32 pai_id=31 | fluxo(raiz)=1.666e-06 | raio(raiz)=0.0118547 | volume_total=0.0115612 | conexoes testadas nesta insercao=376 | rejeitadas nesta insercao=301
+Terminal 21/100 inserido em (7.60434, 5.65059) | segmento id=34 pai_id=33 | fluxo(raiz)=1.7493e-06 | raio(raiz)=0.0120491 | volume_total=0.0119472 | conexoes testadas nesta insercao=403 | rejeitadas nesta insercao=343
+Terminal 22/100 inserido em (6.17453, -3.43924) | segmento id=35 pai_id=26 | fluxo(raiz)=1.8326e-06 | raio(raiz)=0.0122374 | volume_total=0.0124015 | conexoes testadas nesta insercao=427 | rejeitadas nesta insercao=365
+Terminal 23/100 inserido em (2.85864, -9.56326) | segmento id=37 pai_id=36 | fluxo(raiz)=1.9159e-06 | raio(raiz)=0.0124201 | volume_total=0.0129406 | conexoes testadas nesta insercao=437 | rejeitadas nesta insercao=413
+Terminal 24/100 inserido em (1.03868, -5.94979) | segmento id=39 pai_id=38 | fluxo(raiz)=1.9992e-06 | raio(raiz)=0.0125975 | volume_total=0.0134075 | conexoes testadas nesta insercao=462 | rejeitadas nesta insercao=317
+Terminal 25/100 inserido em (9.97167, 0.502516) | segmento id=41 pai_id=40 | fluxo(raiz)=2.0825e-06 | raio(raiz)=0.0127701 | volume_total=0.0138555 | conexoes testadas nesta insercao=487 | rejeitadas nesta insercao=439
+Terminal 26/100 inserido em (3.08853, 9.43734) | segmento id=42 pai_id=6 | fluxo(raiz)=2.1658e-06 | raio(raiz)=0.0129382 | volume_total=0.0140433 | conexoes testadas nesta insercao=511 | rejeitadas nesta insercao=474
+Terminal 27/100 inserido em (-7.52993, 1.05023) | segmento id=44 pai_id=43 | fluxo(raiz)=2.2491e-06 | raio(raiz)=0.013102 | volume_total=0.014454 | conexoes testadas nesta insercao=520 | rejeitadas nesta insercao=440
+Terminal 28/100 inserido em (1.12031, 1.54092) | segmento id=46 pai_id=45 | fluxo(raiz)=2.3324e-06 | raio(raiz)=0.0132618 | volume_total=0.0147041 | conexoes testadas nesta insercao=546 | rejeitadas nesta insercao=450
+Terminal 29/100 inserido em (-6.93396, -2.71727) | segmento id=47 pai_id=43 | fluxo(raiz)=2.4157e-06 | raio(raiz)=0.0134178 | volume_total=0.0151517 | conexoes testadas nesta insercao=568 | rejeitadas nesta insercao=519
+Terminal 30/100 inserido em (-0.642838, -7.62868) | segmento id=49 pai_id=48 | fluxo(raiz)=2.499e-06 | raio(raiz)=0.0135703 | volume_total=0.015662 | conexoes testadas nesta insercao=581 | rejeitadas nesta insercao=406
+Terminal 31/100 inserido em (-2.73289, -2.1178) | segmento id=51 pai_id=50 | fluxo(raiz)=2.5823e-06 | raio(raiz)=0.0137194 | volume_total=0.0160181 | conexoes testadas nesta insercao=602 | rejeitadas nesta insercao=473
+Terminal 32/100 inserido em (-0.598006, -2.44739) | segmento id=52 pai_id=50 | fluxo(raiz)=2.6656e-06 | raio(raiz)=0.0138654 | volume_total=0.0164225 | conexoes testadas nesta insercao=629 | rejeitadas nesta insercao=464
+Terminal 33/100 inserido em (-9.6077, 1.14384) | segmento id=54 pai_id=53 | fluxo(raiz)=2.7489e-06 | raio(raiz)=0.0140083 | volume_total=0.0168657 | conexoes testadas nesta insercao=637 | rejeitadas nesta insercao=530
+Terminal 34/100 inserido em (3.48284, 6.82988) | segmento id=56 pai_id=55 | fluxo(raiz)=2.8322e-06 | raio(raiz)=0.0141484 | volume_total=0.0170151 | conexoes testadas nesta insercao=666 | rejeitadas nesta insercao=616
+Terminal 35/100 inserido em (-2.20892, -9.68975) | segmento id=58 pai_id=57 | fluxo(raiz)=2.9155e-06 | raio(raiz)=0.0142858 | volume_total=0.0176009 | conexoes testadas nesta insercao=685 | rejeitadas nesta insercao=528
+Terminal 36/100 inserido em (-5.00452, -8.58298) | segmento id=60 pai_id=59 | fluxo(raiz)=2.9988e-06 | raio(raiz)=0.0144206 | volume_total=0.018122 | conexoes testadas nesta insercao=710 | rejeitadas nesta insercao=650
+Terminal 37/100 inserido em (-5.38749, 8.41272) | segmento id=62 pai_id=61 | fluxo(raiz)=3.0821e-06 | raio(raiz)=0.0145529 | volume_total=0.018358 | conexoes testadas nesta insercao=731 | rejeitadas nesta insercao=693
+Terminal 38/100 inserido em (-4.10988, 4.67362) | segmento id=64 pai_id=63 | fluxo(raiz)=3.1654e-06 | raio(raiz)=0.0146828 | volume_total=0.0186288 | conexoes testadas nesta insercao=760 | rejeitadas nesta insercao=638
+Terminal 39/100 inserido em (6.84111, 2.67084) | segmento id=66 pai_id=65 | fluxo(raiz)=3.2487e-06 | raio(raiz)=0.0148105 | volume_total=0.0189332 | conexoes testadas nesta insercao=783 | rejeitadas nesta insercao=708
+Terminal 40/100 inserido em (1.35423, -0.476248) | segmento id=67 pai_id=45 | fluxo(raiz)=3.332e-06 | raio(raiz)=0.014936 | volume_total=0.0192375 | conexoes testadas nesta insercao=812 | rejeitadas nesta insercao=663
+Terminal 41/100 inserido em (-1.01831, 7.03449) | segmento id=68 pai_id=23 | fluxo(raiz)=3.4153e-06 | raio(raiz)=0.0150595 | volume_total=0.0194514 | conexoes testadas nesta insercao=821 | rejeitadas nesta insercao=708
+Terminal 42/100 inserido em (-7.12226, 4.30128) | segmento id=70 pai_id=69 | fluxo(raiz)=3.4986e-06 | raio(raiz)=0.0151809 | volume_total=0.0197399 | conexoes testadas nesta insercao=827 | rejeitadas nesta insercao=650
+Terminal 43/100 inserido em (-8.83061, -2.61263) | segmento id=71 pai_id=53 | fluxo(raiz)=3.5819e-06 | raio(raiz)=0.0153005 | volume_total=0.020205 | conexoes testadas nesta insercao=849 | rejeitadas nesta insercao=794
+Terminal 44/100 inserido em (-2.95248, -5.85456) | segmento id=72 pai_id=59 | fluxo(raiz)=3.6652e-06 | raio(raiz)=0.0154182 | volume_total=0.0207024 | conexoes testadas nesta insercao=861 | rejeitadas nesta insercao=720
+Terminal 45/100 inserido em (0.284527, -4.20922) | segmento id=74 pai_id=73 | fluxo(raiz)=3.7485e-06 | raio(raiz)=0.0155341 | volume_total=0.0210763 | conexoes testadas nesta insercao=879 | rejeitadas nesta insercao=631
+Terminal 46/100 inserido em (5.42157, 6.21313) | segmento id=76 pai_id=75 | fluxo(raiz)=3.8318e-06 | raio(raiz)=0.0156483 | volume_total=0.0213154 | conexoes testadas nesta insercao=903 | rejeitadas nesta insercao=831
+Terminal 47/100 inserido em (5.01314, -1.85621) | segmento id=77 pai_id=28 | fluxo(raiz)=3.9151e-06 | raio(raiz)=0.0157609 | volume_total=0.0216242 | conexoes testadas nesta insercao=927 | rejeitadas nesta insercao=853
+Terminal 48/100 inserido em (7.78272, -4.20699) | segmento id=79 pai_id=78 | fluxo(raiz)=3.9984e-06 | raio(raiz)=0.0158719 | volume_total=0.0220389 | conexoes testadas nesta insercao=938 | rejeitadas nesta insercao=877
+Terminal 49/100 inserido em (9.89086, -1.47224) | segmento id=80 pai_id=40 | fluxo(raiz)=4.0817e-06 | raio(raiz)=0.0159814 | volume_total=0.0224478 | conexoes testadas nesta insercao=958 | rejeitadas nesta insercao=908
+Terminal 50/100 inserido em (4.64558, 2.26025) | segmento id=81 pai_id=18 | fluxo(raiz)=4.165e-06 | raio(raiz)=0.0160893 | volume_total=0.0226975 | conexoes testadas nesta insercao=975 | rejeitadas nesta insercao=889
+Terminal 51/100 inserido em (0.848103, 3.26092) | segmento id=82 pai_id=31 | fluxo(raiz)=4.2483e-06 | raio(raiz)=0.0161959 | volume_total=0.0228878 | conexoes testadas nesta insercao=985 | rejeitadas nesta insercao=877
+Terminal 52/100 inserido em (-4.73123, -3.05137) | segmento id=84 pai_id=83 | fluxo(raiz)=4.3316e-06 | raio(raiz)=0.0163011 | volume_total=0.0231532 | conexoes testadas nesta insercao=993 | rejeitadas nesta insercao=905
+Terminal 53/100 inserido em (-5.34133, 1.11029) | segmento id=86 pai_id=85 | fluxo(raiz)=4.4149e-06 | raio(raiz)=0.0164049 | volume_total=0.0234355 | conexoes testadas nesta insercao=1014 | rejeitadas nesta insercao=915
+Terminal 54/100 inserido em (8.20886, 1.44824) | segmento id=88 pai_id=87 | fluxo(raiz)=4.4982e-06 | raio(raiz)=0.0165074 | volume_total=0.0237626 | conexoes testadas nesta insercao=1044 | rejeitadas nesta insercao=974
+Terminal 55/100 inserido em (-6.95164, 2.59022) | segmento id=89 pai_id=69 | fluxo(raiz)=4.5815e-06 | raio(raiz)=0.0166087 | volume_total=0.0241206 | conexoes testadas nesta insercao=1064 | rejeitadas nesta insercao=863
+Terminal 56/100 inserido em (-2.88026, 3.28419) | segmento id=90 pai_id=63 | fluxo(raiz)=4.6648e-06 | raio(raiz)=0.0167088 | volume_total=0.0243534 | conexoes testadas nesta insercao=1077 | rejeitadas nesta insercao=995
+Terminal 57/100 inserido em (-1.14328, 9.9277) | segmento id=92 pai_id=91 | fluxo(raiz)=4.7481e-06 | raio(raiz)=0.0168076 | volume_total=0.0244351 | conexoes testadas nesta insercao=1083 | rejeitadas nesta insercao=1047
+Terminal 58/100 inserido em (-7.80157, -6.07739) | segmento id=94 pai_id=93 | fluxo(raiz)=4.8314e-06 | raio(raiz)=0.0169054 | volume_total=0.0248727 | conexoes testadas nesta insercao=1104 | rejeitadas nesta insercao=1080
+Terminal 59/100 inserido em (1.90053, 7.99318) | segmento id=95 pai_id=55 | fluxo(raiz)=4.9147e-06 | raio(raiz)=0.017002 | volume_total=0.0250919 | conexoes testadas nesta insercao=1140 | rejeitadas nesta insercao=1078
+Terminal 60/100 inserido em (4.53772, -3.52178) | segmento id=96 pai_id=38 | fluxo(raiz)=4.998e-06 | raio(raiz)=0.0170975 | volume_total=0.0254174 | conexoes testadas nesta insercao=1150 | rejeitadas nesta insercao=1082
+Terminal 61/100 inserido em (-3.59098, -4.25081) | segmento id=97 pai_id=83 | fluxo(raiz)=5.0813e-06 | raio(raiz)=0.0171919 | volume_total=0.0257599 | conexoes testadas nesta insercao=1159 | rejeitadas nesta insercao=1039
+Terminal 62/100 inserido em (-2.79455, 6.71201) | segmento id=98 pai_id=61 | fluxo(raiz)=5.1646e-06 | raio(raiz)=0.0172854 | volume_total=0.0259637 | conexoes testadas nesta insercao=1169 | rejeitadas nesta insercao=1032
+Terminal 63/100 inserido em (5.88535, -6.08865) | segmento id=100 pai_id=99 | fluxo(raiz)=5.2479e-06 | raio(raiz)=0.0173778 | volume_total=0.026301 | conexoes testadas nesta insercao=1178 | rejeitadas nesta insercao=1154
+Terminal 64/100 inserido em (7.63045, 4.05506) | segmento id=102 pai_id=101 | fluxo(raiz)=5.3312e-06 | raio(raiz)=0.0174693 | volume_total=0.0265947 | conexoes testadas nesta insercao=1202 | rejeitadas nesta insercao=1115
+Terminal 65/100 inserido em (-1.38055, -6.19308) | segmento id=103 pai_id=48 | fluxo(raiz)=5.4145e-06 | raio(raiz)=0.0175598 | volume_total=0.027034 | conexoes testadas nesta insercao=1224 | rejeitadas nesta insercao=983
+Terminal 66/100 inserido em (4.28186, -8.90907) | segmento id=104 pai_id=36 | fluxo(raiz)=5.4978e-06 | raio(raiz)=0.0176494 | volume_total=0.0274712 | conexoes testadas nesta insercao=1235 | rejeitadas nesta insercao=1198
+Terminal 67/100 inserido em (6.76976, 6.92761) | segmento id=105 pai_id=75 | fluxo(raiz)=5.5811e-06 | raio(raiz)=0.0177381 | volume_total=0.0277394 | conexoes testadas nesta insercao=1252 | rejeitadas nesta insercao=1189
+Terminal 68/100 inserido em (1.21098, -7.7676) | segmento id=106 pai_id=57 | fluxo(raiz)=5.6644e-06 | raio(raiz)=0.0178259 | volume_total=0.0281653 | conexoes testadas nesta insercao=1257 | rejeitadas nesta insercao=1184
+Terminal 69/100 inserido em (4.50002, 8.8964) | segmento id=108 pai_id=107 | fluxo(raiz)=5.7477e-06 | raio(raiz)=0.0179129 | volume_total=0.0283765 | conexoes testadas nesta insercao=1274 | rejeitadas nesta insercao=1221
+Terminal 70/100 inserido em (-6.2498, -4.145) | segmento id=109 pai_id=93 | fluxo(raiz)=5.831e-06 | raio(raiz)=0.017999 | volume_total=0.0288122 | conexoes testadas nesta insercao=1291 | rejeitadas nesta insercao=1206
+Terminal 71/100 inserido em (-8.20247, 5.7097) | segmento id=111 pai_id=110 | fluxo(raiz)=5.9143e-06 | raio(raiz)=0.0180843 | volume_total=0.0291088 | conexoes testadas nesta insercao=1299 | rejeitadas nesta insercao=1262
+Terminal 72/100 inserido em (-5.49699, 4.26345) | segmento id=112 pai_id=14 | fluxo(raiz)=5.9976e-06 | raio(raiz)=0.0181688 | volume_total=0.0293753 | conexoes testadas nesta insercao=1329 | rejeitadas nesta insercao=1175
+Terminal 73/100 inserido em (-8.50147, 2.08888) | segmento id=114 pai_id=113 | fluxo(raiz)=6.0809e-06 | raio(raiz)=0.0182525 | volume_total=0.0297216 | conexoes testadas nesta insercao=1337 | rejeitadas nesta insercao=1213
+Terminal 74/100 inserido em (-3.65709, -9.27618) | segmento id=116 pai_id=115 | fluxo(raiz)=6.1642e-06 | raio(raiz)=0.0183355 | volume_total=0.03017 | conexoes testadas nesta insercao=1357 | rejeitadas nesta insercao=1249
+Terminal 75/100 inserido em (3.97802, -7.21888) | segmento id=118 pai_id=117 | fluxo(raiz)=6.2475e-06 | raio(raiz)=0.0184177 | volume_total=0.0304792 | conexoes testadas nesta insercao=1393 | rejeitadas nesta insercao=1357
+Terminal 76/100 inserido em (0.709963, -1.7578) | segmento id=119 pai_id=73 | fluxo(raiz)=6.3308e-06 | raio(raiz)=0.0184992 | volume_total=0.0307744 | conexoes testadas nesta insercao=1416 | rejeitadas nesta insercao=1270
+Terminal 77/100 inserido em (-3.78851, 1.837) | segmento id=121 pai_id=120 | fluxo(raiz)=6.4141e-06 | raio(raiz)=0.01858 | volume_total=0.0309735 | conexoes testadas nesta insercao=1427 | rejeitadas nesta insercao=1348
+Terminal 78/100 inserido em (2.9808, 5.43316) | segmento id=122 pai_id=33 | fluxo(raiz)=6.4974e-06 | raio(raiz)=0.0186601 | volume_total=0.0312128 | conexoes testadas nesta insercao=1455 | rejeitadas nesta insercao=1360
+Terminal 79/100 inserido em (6.80853, -7.25834) | segmento id=123 pai_id=99 | fluxo(raiz)=6.5807e-06 | raio(raiz)=0.0187395 | volume_total=0.0315959 | conexoes testadas nesta insercao=1457 | rejeitadas nesta insercao=1411
+Terminal 80/100 inserido em (-0.191324, 2.23777) | segmento id=125 pai_id=124 | fluxo(raiz)=6.664e-06 | raio(raiz)=0.0188182 | volume_total=0.0317623 | conexoes testadas nesta insercao=1479 | rejeitadas nesta insercao=1382
+Terminal 81/100 inserido em (5.37175, 0.755139) | segmento id=127 pai_id=126 | fluxo(raiz)=6.7473e-06 | raio(raiz)=0.0188963 | volume_total=0.0319574 | conexoes testadas nesta insercao=1497 | rejeitadas nesta insercao=1414
+Terminal 82/100 inserido em (1.58675, 9.86883) | segmento id=129 pai_id=128 | fluxo(raiz)=6.8306e-06 | raio(raiz)=0.0189737 | volume_total=0.0320506 | conexoes testadas nesta insercao=1521 | rejeitadas nesta insercao=1472
+Terminal 83/100 inserido em (-7.73796, -1.35125) | segmento id=131 pai_id=130 | fluxo(raiz)=6.9139e-06 | raio(raiz)=0.0190506 | volume_total=0.0323431 | conexoes testadas nesta insercao=1541 | rejeitadas nesta insercao=1477
+Terminal 84/100 inserido em (8.90481, 4.54429) | segmento id=133 pai_id=132 | fluxo(raiz)=6.9972e-06 | raio(raiz)=0.0191268 | volume_total=0.0326483 | conexoes testadas nesta insercao=1563 | rejeitadas nesta insercao=1498
+Terminal 85/100 inserido em (9.52506, 1.83308) | segmento id=134 pai_id=87 | fluxo(raiz)=7.0805e-06 | raio(raiz)=0.0192024 | volume_total=0.0329976 | conexoes testadas nesta insercao=1590 | rejeitadas nesta insercao=1533
+Terminal 86/100 inserido em (5.43937, -4.664) | segmento id=136 pai_id=135 | fluxo(raiz)=7.1638e-06 | raio(raiz)=0.0192774 | volume_total=0.0333132 | conexoes testadas nesta insercao=1605 | rejeitadas nesta insercao=1502
+Terminal 87/100 inserido em (2.38332, -6.81111) | segmento id=137 pai_id=117 | fluxo(raiz)=7.2471e-06 | raio(raiz)=0.0193518 | volume_total=0.0336466 | conexoes testadas nesta insercao=1626 | rejeitadas nesta insercao=1541
+Terminal 88/100 inserido em (1.05176, 4.8459) | segmento id=139 pai_id=138 | fluxo(raiz)=7.3304e-06 | raio(raiz)=0.0194257 | volume_total=0.033742 | conexoes testadas nesta insercao=1650 | rejeitadas nesta insercao=1584
+Terminal 89/100 inserido em (-3.98132, 6.04863) | segmento id=141 pai_id=140 | fluxo(raiz)=7.4137e-06 | raio(raiz)=0.019499 | volume_total=0.0339252 | conexoes testadas nesta insercao=1669 | rejeitadas nesta insercao=1562
+Terminal 90/100 inserido em (-7.88946, -3.5492) | segmento id=143 pai_id=142 | fluxo(raiz)=7.497e-06 | raio(raiz)=0.0195717 | volume_total=0.034294 | conexoes testadas nesta insercao=1680 | rejeitadas nesta insercao=1597
+Terminal 91/100 inserido em (-8.91782, 4.50192) | segmento id=145 pai_id=144 | fluxo(raiz)=7.5803e-06 | raio(raiz)=0.0196439 | volume_total=0.0345838 | conexoes testadas nesta insercao=1708 | rejeitadas nesta insercao=1658
+Terminal 92/100 inserido em (1.30226, -9.89098) | segmento id=147 pai_id=146 | fluxo(raiz)=7.6636e-06 | raio(raiz)=0.0197156 | volume_total=0.0349682 | conexoes testadas nesta insercao=1728 | rejeitadas nesta insercao=1704
+Terminal 93/100 inserido em (5.61496, 3.16106) | segmento id=148 pai_id=101 | fluxo(raiz)=7.7469e-06 | raio(raiz)=0.0197868 | volume_total=0.0352473 | conexoes testadas nesta insercao=1768 | rejeitadas nesta insercao=1657
+Terminal 94/100 inserido em (1.71468, -4.40865) | segmento id=150 pai_id=149 | fluxo(raiz)=7.8302e-06 | raio(raiz)=0.0198575 | volume_total=0.0355036 | conexoes testadas nesta insercao=1775 | rejeitadas nesta insercao=1666
+Terminal 95/100 inserido em (0.227176, -8.68416) | segmento id=151 pai_id=146 | fluxo(raiz)=7.9135e-06 | raio(raiz)=0.0199277 | volume_total=0.0359286 | conexoes testadas nesta insercao=1797 | rejeitadas nesta insercao=1724
+Terminal 96/100 inserido em (0.197971, 0.680489) | segmento id=153 pai_id=152 | fluxo(raiz)=7.9968e-06 | raio(raiz)=0.0199973 | volume_total=0.0361481 | conexoes testadas nesta insercao=1818 | rejeitadas nesta insercao=1674
+Terminal 97/100 inserido em (-6.00672, -1.69929) | segmento id=154 pai_id=130 | fluxo(raiz)=8.0801e-06 | raio(raiz)=0.0200665 | volume_total=0.0364624 | conexoes testadas nesta insercao=1829 | rejeitadas nesta insercao=1720
+Terminal 98/100 inserido em (-1.90848, -7.41192) | segmento id=156 pai_id=155 | fluxo(raiz)=8.1634e-06 | raio(raiz)=0.0201352 | volume_total=0.0368482 | conexoes testadas nesta insercao=1843 | rejeitadas nesta insercao=1713
+Terminal 99/100 inserido em (-1.78706, -3.15914) | segmento id=158 pai_id=157 | fluxo(raiz)=8.2467e-06 | raio(raiz)=0.0202035 | volume_total=0.0371558 | conexoes testadas nesta insercao=1871 | rejeitadas nesta insercao=1767
+Terminal 100/100 inserido em (6.75733, -4.99939) | segmento id=160 pai_id=159 | fluxo(raiz)=8.33e-06 | raio(raiz)=0.0202713 | volume_total=0.0374878 | conexoes testadas nesta insercao=1893 | rejeitadas nesta insercao=1780
+---------------------------------------------------
+Normalizacao por resistencia hidraulica global aplicada.
+Volume total apos normalizacao: 0.00156567
+---------------------------------------------------
+Fim da execucao.
+Conexoes aceitas (terminais inseridos): 100
+Conexoes testadas (total): 95476
+Conexoes rejeitadas (total): 87280
+Tempo total: 15.4673 s
+===================================================
